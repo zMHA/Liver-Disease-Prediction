@@ -97,21 +97,21 @@ Push code to Master Branch
 Here are some related projects
 
 
-[Heart Disease](https://github.com/SagarDhandare/Heart-Disease-Project)
+[Heart Disease](https://github.com/zMHA/Heart-Disease-Project)
 
-[Stroke Prediction](https://github.com/SagarDhandare/Stroke-Prediction-Project)
+[Stroke Prediction](https://github.com/zMHA/Stroke-Prediction-Project)
 
-[Diabetes Disease](https://github.com/SagarDhandare/Diabetes-Disease-Project)
+[Diabetes Disease](https://github.com/zMHA/Diabetes-Disease-Project)
 
-[Chronic Kidney Disease](https://github.com/SagarDhandare/Chronic-Kidney-Disease-Prediction-Project)
+[Chronic Kidney Disease](https://github.com/zMHA/Chronic-Kidney-Disease-Prediction-Project)
 
-[Breast Cancer Disease](https://github.com/SagarDhandare/Breast-Cancer-Disease-Prediction-Project)
+[Breast Cancer Disease](https://github.com/zMHA/Breast-Cancer-Disease-Prediction-Project)
 
-[Medical Insurance Cost](https://github.com/SagarDhandare/Medical-Insurance-Cost-Project)
+[Medical Insurance Cost](https://github.com/zMHA/Medical-Insurance-Cost-Project)
   
 ## Feedback
 
-If you have any feedback, please reach out to me at [LinkedIn](https://www.linkedin.com/in/sagardhandare/)
+If you have any feedback, please reach out to me at [LinkedIn](https://www.linkedin.com/in/zmha1270/)
 
 Please do ⭐ the repository, if you like this.😊
 
